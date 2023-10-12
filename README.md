@@ -1,2 +1,2 @@
-# goit-markup-hw-01
-HTML
+# goit-js-hw-01
+JS
